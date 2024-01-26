@@ -1,0 +1,14 @@
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\bin\Debug\net8.0\ConsoleApp - Média de Aluno.exe
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\bin\Debug\net8.0\ConsoleApp - Média de Aluno.deps.json
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\bin\Debug\net8.0\ConsoleApp - Média de Aluno.runtimeconfig.json
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\bin\Debug\net8.0\ConsoleApp - Média de Aluno.dll
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\bin\Debug\net8.0\ConsoleApp - Média de Aluno.pdb
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\ConsoleApp - Média de Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\ConsoleApp - Média de Aluno.AssemblyInfoInputs.cache
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\ConsoleApp - Média de Aluno.AssemblyInfo.cs
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\ConsoleApp - Média de Aluno.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\ConsoleApp - Média de Aluno.dll
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\refint\ConsoleApp - Média de Aluno.dll
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\ConsoleApp - Média de Aluno.pdb
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\ConsoleApp - Média de Aluno.genruntimeconfig.cache
+C:\Users\Gabriel Barboza\source\repos\ConsoleApp - Média de Aluno\obj\Debug\net8.0\ref\ConsoleApp - Média de Aluno.dll
